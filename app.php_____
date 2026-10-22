@@ -1,0 +1,21 @@
+<?php 
+
+$url = [];
+if (isset($_GET['url'])) {
+    $url = explode('/', trim($_GET['url'], '/'));
+}
+
+
+define('ROUTAGE_INTERNE', true);
+
+$route = $url[0] ?? '';
+$route = $route ?: 'dashboard';
+// var_dump($route);
+// exit;
+switch($route) {
+    case 'home':
+        // include 'processing/pro_dasboard.php';
+        include 'pages/index.php';
+        break;  
+
+}

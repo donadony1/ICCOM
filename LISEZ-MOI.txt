@@ -1,0 +1,33 @@
+SITE VITRINE ICCOM — HTML / CSS / JavaScript / Bootstrap 5.3
+============================================================
+
+PAGES
+  index.html               Accueil
+  a-propos.html            À propos
+  produits-services.html   Produits & services (filtres par catégorie)
+  logistique.html          Logistique & transit (processus, simulateur)
+  contact.html             Contact & demande de devis
+
+DOSSIERS
+  assets/css/style.css     Design system ICCOM (couleurs, composants, responsive)
+  assets/css/images.css    Toutes les photos du site (voir ci-dessous)
+  assets/js/main.js        Filtres, simulateur, formulaire, animations
+  assets/img/logo.png      Logo ICCOM
+  assets/vendor/           Bootstrap 5.3.3 + Bootstrap Icons 1.11.3 (en local, sans CDN)
+
+PHOTOS
+  Les photos viennent des maquettes Stitch (liens Google). Pour la mise en ligne :
+  1. Téléchargez-les (ou utilisez vos propres photos) dans assets/img/
+  2. Ouvrez assets/css/images.css et remplacez chaque url('https://...')
+     par url('../img/votre-photo.jpg').
+  Un dégradé bleu s'affiche si une photo est absente.
+
+FORMULAIRE DE DEVIS
+  Le site est statique : le formulaire valide les champs, puis propose d'envoyer
+  la demande par WhatsApp (+235 61 05 30 17) ou par e-mail (iccomafrique@gmail.com).
+  Pour un envoi serveur (PHP, Formspree...), adaptez initContactForm() dans main.js.
+
+À VÉRIFIER AVANT PUBLICATION
+  - Adresse du siège (Rue 2060, Sabangali) et coordonnées GPS de la carte (contact.html)
+  - Délai indicatif « 12 à 15 jours » du simulateur (logistique.html / main.js)
+  - Horaires d'ouverture (Lun.–Sam. 8h–18h)

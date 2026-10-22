@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ICCOM — Produits pétroliers, équipements industriels & logistique | N'Djamena, Tchad</title>
+<meta name="description" content="ICCOM, International Corporation Company : fourniture en gros de produits pétroliers, tubes de cuvelage et de production, matériel électrique et logistique de transit pour clients industriels au Tchad et en Afrique centrale.">
+<meta name="theme-color" content="#0B1F4B">
+<meta property="og:title" content="ICCOM — Produits pétroliers, équipements industriels & logistique | N'Djamena, Tchad">
+<meta property="og:description" content="ICCOM, International Corporation Company : fourniture en gros de produits pétroliers, tubes de cuvelage et de production, matériel électrique et logistique de transit pour clients industriels au Tchad et en Afrique centrale.">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
+<link href="assets/vendor/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="assets/vendor/bootstrap-icons/bootstrap-icons.min.css" rel="stylesheet">
+<link href="assets/css/style.css" rel="stylesheet">
+<link href="assets/css/images.css" rel="stylesheet">
+</head>
+<body>
+<a class="skip-link" href="#contenu">Aller au contenu</a>
+<div class="topbar d-none d-sm-block">
+  <div class="container d-flex justify-content-between align-items-center gap-3 flex-wrap">
+    <span><i class="bi bi-geo-alt-fill"></i>N'Djamena, République du Tchad</span>
+    <span class="d-flex gap-3 flex-wrap">
+      <a href="tel:+23561053017"><i class="bi bi-telephone-fill"></i>+235 61 05 30 17</a>
+      <a href="mailto:iccomafrique@gmail.com" class="d-none d-md-inline"><i class="bi bi-envelope-fill"></i>iccomafrique@gmail.com</a>
+    </span>
+  </div>
+</div>
+<header class="site-header">
+  <nav class="navbar navbar-expand-xl" aria-label="Navigation principale">
+    <div class="container">
+      <a class="brand" href="index.html" aria-label="ICCOM — accueil">
+        <img src="assets/img/logo.png" alt="Logo ICCOM" width="44" height="54">
+        <span class="brand-text"><strong>ICCOM</strong><small>International Corporation</small></span>
+      </a>
+      <div class="d-flex align-items-center gap-2 d-xl-none ms-auto">
+        <a class="btn btn-amber btn-sm px-3" href="contact.html#formulaire"><i class="bi bi-receipt me-1"></i>Devis</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuMobile" aria-controls="menuMobile" aria-label="Ouvrir le menu">
+          <i class="bi bi-list fs-2 text-navy" style="color:var(--navy)"></i>
+        </button>
+      </div>
+      <div class="offcanvas offcanvas-end" tabindex="-1" id="menuMobile" aria-labelledby="menuMobileLabel">
+        <div class="offcanvas-header d-xl-none">
+          <h2 class="offcanvas-title h5 m-0" id="menuMobileLabel">Navigation</h2>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Fermer"></button>
+        </div>
+        <div class="offcanvas-body d-flex flex-column flex-xl-row align-items-xl-center">
+          <ul class="navbar-nav ms-xl-auto mb-3 mb-xl-0 me-xl-3">
+<li class="nav-item"><a class="nav-link active" href="index.html" aria-current="page"><i class="bi bi-house-door d-xl-none"></i>Accueil</a></li>
+<li class="nav-item"><a class="nav-link" href="a-propos.html"><i class="bi bi-buildings d-xl-none"></i>À propos</a></li>
+<li class="nav-item"><a class="nav-link" href="produits-services.html"><i class="bi bi-box-seam d-xl-none"></i>Produits & Services</a></li>
+<li class="nav-item"><a class="nav-link" href="logistique.html"><i class="bi bi-truck d-xl-none"></i>Logistique & Transit</a></li>
+<li class="nav-item"><a class="nav-link" href="contact.html"><i class="bi bi-file-earmark-text d-xl-none"></i>Contact & Devis</a></li>
+          </ul>
+          <a class="btn btn-amber d-none d-xl-inline-flex align-items-center gap-2" href="contact.html#formulaire"><i class="bi bi-receipt"></i>Demander un devis</a>
+          <div class="offcanvas-urgence mt-auto d-xl-none">
+            <span class="eyebrow mb-1">Assistance d'urgence</span><br>
+            <a class="fw-bold fs-5" href="tel:+23561053017">+235 61 05 30 17</a>
+            <div class="small text-slate mt-1">N'Djamena, République du Tchad</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<main id="contenu">
+<section class="hero">
+  <div class="hero-bg img-bg img-hero" role="img" aria-label="Dépôt pétrolier et citernes au crépuscule"></div>
+  <div class="container hero-inner">
+    <div class="row align-items-center g-5">
+      <div class="col-lg-7">
+        <span class="badge-live mb-3">Partenaire B2B · N'Djamena, Tchad</span>
+        <h1 class="display-hero mb-3">Votre partenaire en <span>produits pétroliers</span>, équipements industriels &amp; logistique</h1>
+        <p class="lead-b mb-4">Fourniture en gros, transport sécurisé et logistique en transit pour opérateurs et industries du Tchad et d'Afrique centrale.</p>
+        <div class="d-flex flex-column flex-sm-row gap-3 mb-4">
+          <a class="btn btn-amber btn-lg" href="contact.html#formulaire">Demander un devis express <i class="bi bi-arrow-right ms-2"></i></a>
+          <a class="btn btn-ghost-light btn-lg" href="#domaines">Découvrir nos solutions <i class="bi bi-chevron-down ms-2"></i></a>
+        </div>
+        <div class="hero-trust"><i class="bi bi-patch-check-fill"></i>Société enregistrée — RCCM et NIF à N'Djamena</div>
+      </div>
+      <div class="col-lg-5 d-none d-lg-block">
+        <div class="hero-panel">
+          <h2>Nos engagements</h2>
+          <ul class="list-unstyled m-0">
+            <li><i class="bi bi-shield-check"></i><span><strong>Sécurité &amp; HSE</strong>Manipulation rigoureuse des produits sensibles.</span></li>
+            <li><i class="bi bi-clock-history"></i><span><strong>Réponse sous 24 h ouvrées</strong>Cotation ferme et détaillée.</span></li>
+            <li><i class="bi bi-geo-alt"></i><span><strong>Suivi &amp; traçabilité</strong>Du chargement à la livraison sur site.</span></li>
+            <li><i class="bi bi-patch-check"></i><span><strong>Intégrité &amp; transparence</strong>Contrats et tarifs clairs.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="metrics" aria-label="Nos atouts">
+  <div class="container">
+    <div class="row g-3">
+      <div class="col-6 col-lg-3"><div class="metric"><span class="icon-box navy sm"><i class="bi bi-fuel-pump"></i></span><div><strong>Fourniture en gros</strong><span class="d">Produits pétroliers et conformité qualité</span></div></div></div>
+      <div class="col-6 col-lg-3"><div class="metric"><span class="icon-box navy sm"><i class="bi bi-signpost-split"></i></span><div><strong>Logistique transit</strong><span class="d">Corridors maritimes et routiers CEMAC</span></div></div></div>
+      <div class="col-6 col-lg-3"><div class="metric"><span class="icon-box navy sm"><i class="bi bi-buildings"></i></span><div><strong>Livraison sur site</strong><span class="d">Ponctualité sur bases-vie et chantiers</span></div></div></div>
+      <div class="col-6 col-lg-3"><div class="metric"><span class="icon-box navy sm"><i class="bi bi-shield-check"></i></span><div><strong>Qualité &amp; intégrité</strong><span class="d">Traçabilité douanière et éthique</span></div></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="domaines">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow">Expertise opérationnelle</span>
+      <h2 class="headline-lg">Nos domaines d'activité</h2>
+      <p>Approvisionnement stratégique et solutions intégrées à forte valeur ajoutée pour les secteurs pétrolier, industriel et du BTP.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-6 col-xl-3 reveal"><article class="card-x">
+        <div class="card-media img-bg img-petrole" role="img" aria-label="Installation de distribution de diesel"><span class="tag tag-glass">Énergie &amp; carburants</span></div>
+        <div class="card-pad">
+          <div class="d-flex justify-content-between align-items-center mb-2"><h3 class="h5 m-0">Produits pétroliers</h3><i class="bi bi-droplet-half fs-4 text-primary"></i></div>
+          <p class="text-slate small">Fourniture en gros de diesel (gasoil) et d'essence pour chantiers, flottes, sites industriels et concessions pétrolières.</p>
+          <a class="link-arrow" href="produits-services.html#petrole">Voir le catalogue carburants <i class="bi bi-arrow-right"></i></a>
+        </div></article></div>
+      <div class="col-md-6 col-xl-3 reveal"><article class="card-x">
+        <div class="card-media img-bg img-tubes" role="img" aria-label="Tubes de cuvelage empilés"><span class="tag tag-glass">Normes API</span></div>
+        <div class="card-pad">
+          <div class="d-flex justify-content-between align-items-center mb-2"><h3 class="h5 m-0">Tubes &amp; équipements pétroliers</h3><i class="bi bi-gear-wide-connected fs-4 text-primary"></i></div>
+          <p class="text-slate small">Tubes de cuvelage (casing), tubes de production (tubing), manchons, tuyauteries et accessoires pour le secteur pétrolier.</p>
+          <a class="link-arrow" href="produits-services.html#forage">Consulter les spécifications <i class="bi bi-arrow-right"></i></a>
+        </div></article></div>
+      <div class="col-md-6 col-xl-3 reveal"><article class="card-x">
+        <div class="card-media img-bg img-logistique" role="img" aria-label="Convoi de camions de fret"><span class="tag tag-glass">Corridors CEMAC</span></div>
+        <div class="card-pad">
+          <div class="d-flex justify-content-between align-items-center mb-2"><h3 class="h5 m-0">Logistique &amp; transport</h3><i class="bi bi-truck fs-4 text-primary"></i></div>
+          <p class="text-slate small">Transport et logistique en transit pour clients industriels : convois routiers, hydrocarbures, conteneurs et fret hors gabarit.</p>
+          <a class="link-arrow" href="logistique.html">Étudier nos corridors <i class="bi bi-arrow-right"></i></a>
+        </div></article></div>
+      <div class="col-md-6 col-xl-3 reveal"><article class="card-x">
+        <div class="card-media img-bg img-electrique" role="img" aria-label="Poste électrique industriel"><span class="tag tag-glass">Haute tension &amp; BTP</span></div>
+        <div class="card-pad">
+          <div class="d-flex justify-content-between align-items-center mb-2"><h3 class="h5 m-0">Matériel électrique</h3><i class="bi bi-lightning-charge fs-4 text-primary"></i></div>
+          <p class="text-slate small">Transformateurs, armoires de distribution, câbles armés, groupes électrogènes et éclairage pour sites industriels.</p>
+          <a class="link-arrow" href="produits-services.html#electrique">Voir le matériel électrique <i class="bi bi-arrow-right"></i></a>
+        </div></article></div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-wash">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 reveal">
+        <div class="card-x static card-pad">
+          <div class="d-flex align-items-center gap-2 mb-2"><i class="bi bi-sliders text-primary fs-4"></i><h3 class="h5 m-0">Besoin d'un volume immédiat ?</h3></div>
+          <p class="text-slate small">Sélectionnez votre division pour orienter votre demande vers nos équipes à N'Djamena :</p>
+          <div class="row g-2 mb-3" id="division-pills">
+            <div class="col-6"><button type="button" class="division-btn" data-produit="petrole" aria-pressed="false"><span>Diesel / Essence</span><i class="bi bi-circle"></i></button></div>
+            <div class="col-6"><button type="button" class="division-btn" data-produit="tubes" aria-pressed="false"><span>Tubes &amp; raccords</span><i class="bi bi-circle"></i></button></div>
+            <div class="col-6"><button type="button" class="division-btn" data-produit="logistique" aria-pressed="false"><span>Convoi routier</span><i class="bi bi-circle"></i></button></div>
+            <div class="col-6"><button type="button" class="division-btn" data-produit="electrique" aria-pressed="false"><span>Équipements élec.</span><i class="bi bi-circle"></i></button></div>
+          </div>
+          <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 p-3 rounded" style="background:var(--wash)">
+            <div><small class="code-font text-slate d-block">Délai moyen d'évaluation</small><strong class="font-title" style="color:var(--navy)">&lt; 24 heures ouvrées</strong></div>
+            <a id="division-go" class="btn btn-navy" href="contact.html#formulaire">Lancer ma demande <i class="bi bi-arrow-right ms-1"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow">Piliers de confiance</span>
+      <h2 class="headline-lg">Pourquoi choisir ICCOM</h2>
+      <p>Sécurité, valeur et performance : le slogan d'ICCOM guide chacune de nos transactions.</p>
+    </div>
+    <div class="row g-4">
+      <div class="col-md-6 col-xl-3 reveal"><div class="card-x card-pad"><span class="icon-box mb-3"><i class="bi bi-shield-lock"></i></span><div class="d-flex align-items-center gap-2 mb-2 flex-wrap"><h3 class="h6 m-0">Sécurité &amp; HSE</h3><span class="tag tag-blue">Prévention</span></div><p class="text-slate small mb-0">Respect rigoureux des protocoles de sécurité lors du dépotage, du transport et de la manipulation des produits sensibles.</p></div></div>
+      <div class="col-md-6 col-xl-3 reveal"><div class="card-x card-pad"><span class="icon-box mb-3"><i class="bi bi-cash-coin"></i></span><div class="d-flex align-items-center gap-2 mb-2 flex-wrap"><h3 class="h6 m-0">Valeur &amp; compétitivité</h3><span class="tag tag-blue">Tarifs B2B</span></div><p class="text-slate small mb-0">Tarification négociée à la source auprès des producteurs pour optimiser vos coûts d'approvisionnement.</p></div></div>
+      <div class="col-md-6 col-xl-3 reveal"><div class="card-x card-pad"><span class="icon-box mb-3"><i class="bi bi-speedometer2"></i></span><div class="d-flex align-items-center gap-2 mb-2 flex-wrap"><h3 class="h6 m-0">Performance &amp; ponctualité</h3><span class="tag tag-blue">Réactivité</span></div><p class="text-slate small mb-0">Réactivité logistique, anticipation des ruptures et disponibilité continue des volumes critiques sur site.</p></div></div>
+      <div class="col-md-6 col-xl-3 reveal"><div class="card-x card-pad"><span class="icon-box mb-3"><i class="bi bi-patch-check"></i></span><div class="d-flex align-items-center gap-2 mb-2 flex-wrap"><h3 class="h6 m-0">Intégrité &amp; transparence</h3><span class="tag tag-blue">Conformité</span></div><p class="text-slate small mb-0">Transparence contractuelle, conformité fiscale et documents d'origine pour chaque lot livré.</p></div></div>
+    </div>
+  </div>
+</section>
+<section class="section pt-0">
+  <div class="container">
+    <div class="cta-band reveal">
+      <div class="row align-items-center g-4">
+        <div class="col-lg-8">
+          <span class="eyebrow on-dark"><i class="bi bi-lightning-charge-fill"></i>Réactivité garantie</span>
+          <h2 class="headline-md">Un besoin en approvisionnement ? Recevez une offre sous 24 h</h2>
+          <p class="mb-0">Nos équipes technico-commerciales étudient votre cahier des charges et organisent vos flux logistiques au Tchad et en Afrique centrale.</p>
+        </div>
+        <div class="col-lg-4 d-grid gap-2">
+          <a class="btn btn-amber btn-lg" href="contact.html#formulaire"><i class="bi bi-receipt me-2"></i>Demander une cotation</a>
+          <a class="btn btn-ghost-light btn-lg" href="tel:+23561053017"><i class="bi bi-headset me-2"></i>+235 61 05 30 17</a>
+        </div>
+      </div>
+      <div class="legal-chip mt-4"><strong><i class="bi bi-shield-check me-1"></i>Enregistrements officiels :</strong> RCCM TD-NDJ-012021A10-01035 · NIF 9029500 · Avenue Maréchal Idriss Deby, Sabangali, N'Djamena</div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="container">
+    <div class="row g-4 g-lg-5">
+      <div class="col-lg-4">
+        <img class="footer-logo mb-3" src="assets/img/logo.png" alt="Logo ICCOM">
+        <p>International Corporation Company — import-export, approvisionnement pétrolier, logistique en transit et fourniture d'équipements industriels et électriques depuis N'Djamena.</p>
+      </div>
+      <div class="col-6 col-lg-2">
+        <h4>Divisions</h4>
+        <ul>
+          <li><a href="produits-services.html#petrole">Produits pétroliers</a></li>
+          <li><a href="produits-services.html#forage">Tubes &amp; tuyauteries</a></li>
+          <li><a href="logistique.html">Logistique &amp; transit</a></li>
+          <li><a href="produits-services.html#electrique">Matériel électrique</a></li>
+        </ul>
+      </div>
+      <div class="col-6 col-lg-2">
+        <h4>Société</h4>
+        <ul>
+          <li><a href="a-propos.html">À propos</a></li>
+          <li><a href="produits-services.html">Produits &amp; services</a></li>
+          <li><a href="logistique.html">Logistique</a></li>
+          <li><a href="contact.html#formulaire">Demander un devis</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <h4>Coordonnées &amp; siège</h4>
+        <ul class="contact">
+          <li><i class="bi bi-geo-alt-fill"></i><span>Rue 2060, Avenue Maréchal Idriss Deby, Sabangali, N'Djamena (Tchad)</span></li>
+          <li><i class="bi bi-telephone-fill"></i><span><a href="tel:+23561053017">+235 61 05 30 17</a><br><a href="tel:+23562224985">+235 62 22 49 85</a><br><a href="tel:+23599023595">+235 99 02 35 95</a></span></li>
+          <li><i class="bi bi-envelope-fill"></i><span><a href="mailto:iccomafrique@gmail.com">iccomafrique@gmail.com</a><br><a href="mailto:iccomchad@gmail.com">iccomchad@gmail.com</a></span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="statutory d-flex flex-wrap gap-3 code-font">
+      <span><span class="lbl">RCCM :</span> TD-NDJ-012021A10-01035</span>
+      <span><span class="lbl">NIF :</span> 9029500</span>
+      <span><span class="lbl">Siège social :</span> N'Djamena, République du Tchad</span>
+    </div>
+  </div>
+  <div class="copyright"><div class="container">© <span id="year">2026</span> ICCOM — International Corporation Company. Tous droits réservés.</div></div>
+</footer>
+
+<div class="mobile-bar d-lg-none" role="navigation" aria-label="Actions rapides">
+  <a class="btn btn-navy" href="tel:+23561053017"><i class="bi bi-telephone-fill"></i>Appeler</a>
+  <a class="btn btn-whatsapp" href="https://wa.me/23561053017" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
+  <a class="btn btn-amber sq" href="contact.html#formulaire" aria-label="Demander un devis"><i class="bi bi-file-earmark-text"></i></a>
+</div>
+
+<script src="assets/vendor/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script>document.getElementById('year').textContent=new Date().getFullYear();</script>
+</body>
+</html>

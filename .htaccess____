@@ -1,0 +1,16 @@
+
+RewriteEngine On
+DirectoryIndex         app.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d 
+
+RewriteRule ^([a-zA-Z0-9-]+)$     app.php?url=$1 [L,QSA]
+#RewriteRule ^([a-zA-Z0-9-]+)$     app.php?url=$1 [NC,L]
+
+# Sécurité : interdit l'accès direct aux dossiers sensibles
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+Options -Indexes
