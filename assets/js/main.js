@@ -8,6 +8,7 @@
   var EMAIL = 'iccomafrique@gmail.com';
 
   var PRODUITS = {
+    agro: 'Produits agricoles & d\'élevage (export)',
     petrole: 'Produits pétroliers (Diesel / Essence)',
     tubes: 'Tubes de cuvelage & production (Casing/Tubing)',
     manchons: 'Manchons & tuyauterie pétrolière',

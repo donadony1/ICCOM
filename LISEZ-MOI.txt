@@ -5,6 +5,7 @@ PAGES
   index.html               Accueil
   a-propos.html            À propos
   produits-services.html   Produits & services (filtres par catégorie)
+  agro-export.html         Produits agricoles & d'élevage (6 filières d'exportation)
   logistique.html          Logistique & transit (processus, simulateur)
   contact.html             Contact & demande de devis
 
@@ -22,12 +23,21 @@ PHOTOS
      par url('../img/votre-photo.jpg').
   Un dégradé bleu s'affiche si une photo est absente.
 
+ILLUSTRATIONS AGRO-EXPORT
+  Les 6 visuels des filières agricoles sont des illustrations vectorielles (SVG) dans
+  assets/img/agro/. Pour utiliser de vraies photos : déposez-les dans ce dossier et
+  changez le nom du fichier dans les balises <img src="assets/img/agro/..."> de
+  agro-export.html et de la section « Produits agricoles » de index.html
+  (le build des pages est statique : modifiez directement les fichiers .html).
+
 FORMULAIRE DE DEVIS
   Le site est statique : le formulaire valide les champs, puis propose d'envoyer
   la demande par WhatsApp (+235 61 05 30 17) ou par e-mail (iccomafrique@gmail.com).
   Pour un envoi serveur (PHP, Formspree...), adaptez initContactForm() dans main.js.
 
 À VÉRIFIER AVANT PUBLICATION
+  - Page agro-export : chiffres de classement (2e producteur mondial de gomme arabique,
+    1er exportateur de bétail et de karité en Afrique centrale) à confirmer avec une source
   - Adresse du siège (Rue 2060, Sabangali) et coordonnées GPS de la carte (contact.html)
   - Délai indicatif « 12 à 15 jours » du simulateur (logistique.html / main.js)
   - Horaires d'ouverture (Lun.–Sam. 8h–18h)
